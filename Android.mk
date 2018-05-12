@@ -14,6 +14,7 @@
 
 # enable this build only when platform library is available
 ifneq ($(TARGET_BUILD_PDK), true)
+ifneq ($(BOARD_PROVIDES_TELEPHONY), true)
 
 LOCAL_PATH := $(call my-dir)
 
@@ -48,4 +49,5 @@ include $(BUILD_JAVA_LIBRARY)
 # ============================================================
 include $(call all-makefiles-under,$(LOCAL_PATH))
 
+endif
 endif # non-PDK build
