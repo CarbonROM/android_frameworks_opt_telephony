@@ -1,0 +1,4 @@
+{
+  "pushCert": "certificate version 0.1\npusher RJ Trujillo \u003ccertifiedblyndguy@gmail.com\u003e 1526083813 -0700\npushee ssh://review.carbonrom.org:29418/CarbonROM/android_frameworks_opt_telephony\nnonce 1526083831-A3F78DB517F8A6FFE8D9A012DDBEDD9DA5A4CBA9\n\n0000000000000000000000000000000000000000 f48857b8efc7e0e5682fba65177ad861f8a6f601 refs/for/cr-6.1/berkeley-test-rj\n-----BEGIN PGP SIGNATURE-----\n\niQEcBAABAgAGBQJa9jDlAAoJEPmgJR/9oEk/b0MH/1XprCL8lsXUqWjs9ENrO6Op\nyCWrqtVDEb6OcF2YK3n5jfm4VlY0hM6DuJ1GvlcWD9CrFEZ5P3XY2MgbLPaFw0y6\nVQgcegy9uOMEGKIpmJ5fmW4lxAowM5B1ULfg4FcGqM57Wu51uQBvomquIJzvkYVE\nELCpDX9Dyb7MuMLWrX99F0UsEi6sp34cJOg3JyWDuFM4XuMvIjS87aAby8cI0Btc\n8kDKv0wtjdjHFk2m8BnGGbvAKwiXLUKfTIRvo3Qg3ShI6tZpMN2ysUHQikLuALbB\nL2Ywdny5d1NzSC9cnVk7YNqifsg1AmyTUMIr+al2WsOqg5zeu7kfMmTIiFIY4wg\u003d\n\u003dk7yx\n-----END PGP SIGNATURE-----\n",
+  "comments": []
+}
